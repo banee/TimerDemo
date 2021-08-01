@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimerDemo</string>
+    <string name="title_timer">Timer</string>
+    <string name="title_history">Laps history</string>
+    <string name="label_start">Start</string>
+    <string name="label_stop">Stop</string>
+    <string name="label_lap">Lap</string>
+    <string name="label_reset">Reset</string>
+    <string name="label_laps">Laps</string>
+
+</resources>
